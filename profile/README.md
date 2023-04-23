@@ -23,6 +23,7 @@ Our community is always looking for new protocols to implement, and we welcome c
 
 - [Bookkeeper](#Bookkeeper)
 - [Coap](#Coap)
+- [HuaweiCloud](#HuaweiCloud)
 - [Kafka](#Kafka)
 - [Mqtt](#Mqtt)
 - [MySQL](#MySQL)
@@ -44,6 +45,10 @@ Our community is always looking for new protocols to implement, and we welcome c
 
 - [coap-simulator-java](https://github.com/protocol-laboratory/coap-simulator-java) Coap simulator based on Java.
 - [coap-simulator-swing](https://github.com/protocol-laboratory/coap-simulator-swing) Coap simulator based on Swing.
+
+### HuaweiCloud
+
+- [huaweicloud-codec-java](https://github.com/protocol-laboratory/huaweicloud-codec-java)
 
 ### Kafka
 
