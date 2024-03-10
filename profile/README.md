@@ -45,6 +45,10 @@ Our community is always looking for new protocols to implement, and we welcome c
 
 - [cmpp-python](https://github.com/protocol-laboratory/cmpp-python)
 
+### Cngp
+
+- [cngp-zig](https://github.com/protocol-laboratory/cngp-zig)
+
 ### Coap
 
 - [coap-simulator-java](https://github.com/protocol-laboratory/coap-simulator-java) Coap simulator based on Java.
@@ -70,6 +74,10 @@ Our community is always looking for new protocols to implement, and we welcome c
 - [kafka-codec-go](https://github.com/protocol-laboratory/kafka-codec-go) Implementation of Kafka protocol client and server codec using Go.
 - [kop-proxy-go](https://github.com/protocol-laboratory/kop-proxy-go) Kafka server implemented with Go.
 
+### Modbus
+
+- [modbus-go](https://github.com/protocol-laboratory/modbus-go)
+
 ### Mqtt
 
 - [mqtt-broker-java](https://github.com/protocol-laboratory/mqtt-broker-java) Mqtt broker java implementation for education purpose.
@@ -77,6 +85,10 @@ Our community is always looking for new protocols to implement, and we welcome c
 ### MySQL
 
 - [netty-codec-mysql](https://github.com/protocol-laboratory/netty-codec-mysql) netty codec for MySQL protocol.
+
+### Opcda
+
+- [opcda-java](https://github.com/protocol-laboratory/opcda-java)
 
 ### PostgreSQL
 
@@ -97,6 +109,14 @@ Our community is always looking for new protocols to implement, and we welcome c
 - [pulsar-codec-go](https://github.com/protocol-laboratory/pulsar-codec-go) implementation of Pulsar protocol client and server codec using Go.
 - [pulsar-proxy-go](https://github.com/protocol-laboratory/pulsar-proxy-go) lightweight pulsar proxy implemented by Go.
 - [pulsar-proxy-java](https://github.com/protocol-laboratory/pulsar-codec-java) helpful codec utilities for [pulsar](https://pulsar.apache.org/), typically used in troubleshooting or lightweight decode/encode.
+
+### Sgip
+
+- [sgip-cpp](https://github.com/protocol-laboratory/sgip-cpp)
+
+### Smgp
+
+- [smgp-perl](https://github.com/protocol-laboratory/smgp-perl)
 
 ### Smpp
 
