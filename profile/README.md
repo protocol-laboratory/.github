@@ -132,7 +132,7 @@ Our community is always looking for new protocols to implement, and we welcome c
 
 ### Zookeeper
 
-- [zookeeper-codec-go](https://github.com/protocol-laboratory/zookeeper-codec-go) zookeeper protocol lightweight decode/encode.
+- [zookeeper-client-go](https://github.com/protocol-laboratory/zookeeper-client-go) zookeeper client implemented with Go.
 
 ## Contact Us
 
